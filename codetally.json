@@ -5,7 +5,7 @@
       "event":"commit",
       "action":"added",
       "chargetype":"author",
-      "chargeref":"someone@github.org",
+      "chargeref":"karel.heyse@oqton.com",
       "description":"Author specific charge for Greg when he adds something in a commit.",
       "calculationtype":"normal",
       "chargeamount":"45.23"
